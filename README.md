@@ -1,2 +1,2 @@
-# V.I.C.K.I.
+# Data Import Framework
 VI for Conducting Knowledgebase Interoperability
